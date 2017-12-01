@@ -1,4 +1,4 @@
-baseURL = "friendly-shannon-6c685c.netlify.com"
+baseURL = "https://friendly-shannon-6c685c.netlify.com/"
 languageCode = "en-us"
 title = "Computer Things."
 theme = "cactus"
