@@ -1,0 +1,30 @@
+baseURL = "http://mustansirzia.com/"
+languageCode = "en-us"
+title = "Computer Things."
+theme = "cactus"
+enableRobotsTXT=true
+[params]
+  name = "Mustansir Zia"
+	description = "Describe your website"
+	bio = "Making/fixing computer things. I develop stuff."
+	# Enter optionally your twitter account
+	twitter = "mustansirzia"
+  enableRSS = true
+  # Sharing options and author information in posts
+  aboutAuthor = "Making/fixing computer things."
+  tweet = "Tweet this!"
+  share = "Share on Facebook!"
+  GitHubUser = "MustansirZia"
+
+  home = "Back home"
+  iconFont = "mono-social"
+
+  # 404 page
+  title404 = "Oops."
+  subtitle404 = "Sadly, you've ventured somwhere far. :("
+
+  # Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/mustansirzia"
+    facebook = "https://www.facebook.com/MustansirZia"
+    github   = "https://www.github.com/MustansirZia"
