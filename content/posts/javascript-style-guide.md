@@ -68,7 +68,7 @@ Let's use an `.eslintrc` file that I generally use which looks like this:
 
 <br />
 Now, after this comes the important part.
-Making our IDEs or text editors use this style guide and hint changes in our code on the fly inside it's own UI.
+Making our IDEs or text editors use this style guide and hint changes in our code on the fly inside its own UI.
 There're plenty of really good articles on this and I think I can point you to a few. (Skip the parts where they add the eslint itself to the project. We've already done that, remember?)
 
 • For Atom - https://hackernoon.com/what-is-eslint-how-do-i-set-it-up-on-atom-70f270f57296. <br />
