@@ -80,6 +80,13 @@ There's [google](http://www.google.com) for others!
 <br />
 Upon following this article, you and your the whole team (if they weren't grumpy enough to try this at the first place) will commit and write code that is beautifully formatted and according to the same style rules. Moreover, you can configure your IDE or text editor to automatically fix and format your files using the same style guide on every save! Neat huh?
 
+<img src="https://raw.githubusercontent.com/MustansirZia/mustansirzia.com/master/static/images/lint.png"</img>
+<br />
+
+<img src="https://raw.githubusercontent.com/MustansirZia/mustansirzia.com/master/static/images/lint_jsx.png"</img>
+
+And profit!
+
 <br />
 A full documentation of a very good style guide written by [airbnb](https://www.airbnb.com/) with what's good and what's bad in JS can be found here. I  use the same guide but with minor changes that I listed above in my `.eslintrc` file.
 https://github.com/airbnb/javascript
