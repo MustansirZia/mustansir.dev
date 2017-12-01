@@ -21,7 +21,7 @@ Well, for the following reasons.
 
 • Trust me, you'll be <b>proud!</b> :)
 
-Ummm alright - <i>But what's a style guide?</i> It's a guide that recommends you on how to format and structure your code. Lint basically means to hint beforehand a bad practice or an error in your code. A style guide in JS can be implemented using [eslint](https://eslint.org/). Eslint is by far the most popular tool for code hinting in JS. (There's JSHint too but isn't as popular)
+Ummm alright - <i>But what's a style guide?</i> It's a guide that recommends you on how to format and structure your code. Lint basically means to hint beforehand a bad practice or an error in your code. A style guide in JS can be implemented using [eslint](https://eslint.org/). Eslint is by far the most popular tool for code hinting in JS. (There's JSHint too but it isn't as popular)
 
 In eslint, there is an <b>.eslintrc</b> file we should use. It's basically a `json` file with a fancy name and it lives inside the root folder of our project. <br />(alongside .babelrc and package.json) <br />
 
@@ -68,7 +68,7 @@ Let's use an `.eslintrc` file that I generally use which looks like this:
 
 <br />
 Now, after this comes the important part.
-Making our IDEs or text editors use this style guide and hint changes in our code on the fly inside it's UI.
+Making our IDEs or text editors use this style guide and hint changes in our code on the fly inside it's own UI.
 There're plenty of really good articles on this and I think I can point you to a few. (Skip the parts where they add the eslint itself to the project. We've already done that, remember?)
 
 • For Atom - https://hackernoon.com/what-is-eslint-how-do-i-set-it-up-on-atom-70f270f57296. <br />
