@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Computer Things."
 theme = "cactus"
 enableRobotsTXT=true
+disqusShortname = "mustansirzia"
 [params]
   name = "Mustansir Zia"
 	description = "Describe your website"
