@@ -93,3 +93,5 @@ https://github.com/airbnb/javascript
 
 <br />
 Just one or two commands with one extra file. That's all it takes for you to feel proud about your code.
+
+Read this article on [medium](https://medium.com/@mustansirzia/javascript-style-guide-c15d8219cec0)?
