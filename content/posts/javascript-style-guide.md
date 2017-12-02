@@ -23,7 +23,7 @@ Well, for the following reasons.
 
 Ummm alright - <i>But what's a style guide?</i> It's a guide that recommends you on how to format and structure your code. Lint basically means to hint beforehand a bad practice or an error in your code. A style guide in JS can be implemented using [eslint](https://eslint.org/). Eslint is by far the most popular tool for code hinting in JS. (There's JSHint too but it isn't as popular)
 
-In eslint, there is an <b>.eslintrc</b> file we should use. It's basically a `json` file with a fancy name and it lives inside the root folder of our project. <br />(alongside .babelrc and package.json) <br />
+In eslint, there is a <b>.eslintrc</b> file we should use. It's basically a `json` file with a fancy name and it lives inside the root folder of our project. <br />(alongside .babelrc and package.json) <br />
 
  Touch this file and install the following dev packages to set up eslint in your next JS project. <br />
 
