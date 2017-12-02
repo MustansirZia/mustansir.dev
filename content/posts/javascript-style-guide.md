@@ -88,7 +88,7 @@ Upon following this article, you and your the whole team (if they weren't grumpy
 And profit!
 
 <br />
-A full documentation of a very good style guide written by [airbnb](https://www.airbnb.com/) with what's good and what's bad in JS can be found here. I  use the same guide but with minor changes that I listed above in my `.eslintrc` file.
+A full documentation of a very good style guide written by [Airbnb](https://www.airbnb.com/) with what's good and what's bad in JS can be found here. I  use the same guide but with minor changes that I listed above in my `.eslintrc` file.
 https://github.com/airbnb/javascript
 
 <br />
