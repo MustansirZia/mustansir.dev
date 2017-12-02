@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "Computer Things."
 theme = "cactus"
 enableRobotsTXT=true
-disqusShortname = "mustansirzia"
+# enter mustansirzia below to enable disqus.
+disqusShortname = ""
 [params]
   name = "Mustansir Zia"
 	description = "Describe your website"
