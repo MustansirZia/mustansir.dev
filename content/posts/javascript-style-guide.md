@@ -92,4 +92,4 @@ A full documentation of a very good style guide written by [airbnb](https://www.
 https://github.com/airbnb/javascript
 
 <br />
-Just one or two commands with one extra file. That's all it takes for you to feel proud of your code.
+Just one or two commands with one extra file. That's all it takes for you to feel proud about your code.
