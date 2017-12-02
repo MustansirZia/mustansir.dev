@@ -13,7 +13,7 @@ Well, for the following reasons.
 
 • Your code will look <b>amazing</b> and will be <b>readable</b> by you even years down the line.
 
-• Your code will have very less <b>non idiomatic</b> parts. It'll automatically be somewhat good practice if you follow this style guide. <br />For example, it will highlight an error in your IDE or your favourite text editor if you declared a useless function or a redundant variable. <br /> So by implementing a style guide, your IDE or editor will automatically tell you when you're writing bad JS and not just syntactically wrong JS even before you ran a single line of code.
+• Your code will have very less <b>non idiomatic</b> parts. It'll automatically be somewhat good practice if you follow this style guide. <br />For example, it will highlight an error in your IDE or your favourite text editor if you declared a useless function or a redundant variable. <br /> So by implementing a style guide, your IDE or editor will automatically tell you when you're writing bad JS and not just syntactically wrong JS even before you run a single line of code.
 
 • Two people won't be auto aligning the same file with different formatting so as to form an unending cycle and countless git merge conflict cycles. (Trust me, that's something that has happened to me at my office)<br />
 
