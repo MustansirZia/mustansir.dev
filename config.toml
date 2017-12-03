@@ -1,9 +1,9 @@
-baseURL = "mustansirzia.com"
+baseURL = "mustansirzia.com/"
 languageCode = "en-us"
 title = "Computer Things."
 theme = "cactus"
 enableRobotsTXT=true
-# enter mustansirzia below to enable disqus.
+# enter mustansirzia below to enable disqus
 disqusShortname = ""
 [params]
   name = "Mustansir Zia"
