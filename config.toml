@@ -1,4 +1,4 @@
-baseURL = "mustansirzia.com/"
+baseURL = "https://mustansirzia.com/"
 languageCode = "en-us"
 title = "Computer Things."
 theme = "cactus"
