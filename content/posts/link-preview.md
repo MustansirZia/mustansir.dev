@@ -13,7 +13,7 @@ draft: false
 #### Why do we need such a service?
 • Ever came across a situation where you typed a url in a post and saw its preview below right away or when a post carried a link along with a website preview below it?
 
-<img src="https://imgur.com/download/jqwlf89">
+<img src="https://raw.githubusercontent.com/MustansirZia/serverless-link-preview/master/img/screen.png">
 
 Aha! That's the one. Let's build a service that makes this possible in under 15 mins!
 
