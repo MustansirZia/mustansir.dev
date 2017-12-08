@@ -8,7 +8,7 @@ draft: false
 
 <br />
 #### What is it that we'll be making?
-• A RESTful API service that will take in a website URL and reply with its <b>title</b>, <b>description</b>, a <b>thumbnail preview</b> of the first image found on the website along with the <b>site name</b>. It will be serverless and will run on <b>AWS Lambda</b> as a <b>FaaS</b>. Since there is no server or other hardware considerations it can scale to mammoth proportions as Amazon will automatically deploy copies of our exported functions depending on the load. <br />(Perhaps read up on [AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) and [FaaS](https://en.wikipedia.org/wiki/Serverless_computing) to see how it works?)
+• A RESTful API service that will take in a website URL and reply with its <b>title</b>, <b>description</b>, a <b>thumbnail preview</b> of the first image found on the website along with the <b>site name</b>. Scrapping will be done using  [nunkisoftware/link-preview](https://github.com/nunkisoftware/link-preview). It will be serverless and will run on <b>AWS Lambda</b> as a <b>FaaS</b>. Since there is no server or other hardware considerations it can scale to mammoth proportions as Amazon will automatically deploy copies of our exported functions depending on the load. <br />(Perhaps read up on [AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) and [FaaS](https://en.wikipedia.org/wiki/Serverless_computing) to see how it works?)
 
 #### Why do we need such a service?
 • Ever came across a situation where you typed a url in a post and saw its preview below right away or when a post carried a link along with a website preview below it?
