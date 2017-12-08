@@ -183,4 +183,6 @@ Query with your favourite http client inside any application.
 
 Documentation for <b>Up</b> can be found [here](https://up.docs.apex.sh/#introduction).
 
+Clap for this article on [medium](https://medium.com/@mustansirzia/build-and-deploy-a-scalable-website-preview-service-on-aws-lambda-in-under-15-mins-a4c898cd4e07)?
+
 I've also added a repository as a reference to this article and is located here  [https://github.com/MustansirZia/serverless-link-preview](https://github.com/MustansirZia/serverless-link-preview).
