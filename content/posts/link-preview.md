@@ -183,4 +183,4 @@ Query with your favourite http client inside any application.
 
 Documentation for <b>Up</b> can be found [here](https://up.docs.apex.sh/#introduction).
 
-Repository for this article is located [here](https://github.com/MustansirZia/serverless-link-preview).
+I've also added a repository as a reference to this article and is located here  [https://github.com/MustansirZia/serverless-link-preview](https://github.com/MustansirZia/serverless-link-preview).
