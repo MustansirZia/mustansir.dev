@@ -182,3 +182,5 @@ And there you have it, your own serverless and scalable website preview service 
 Query with your favourite http client inside any application.
 
 Documentation for <b>Up</b> can be found [here](https://up.docs.apex.sh/#introduction).
+
+Repository for this article is located [here](https://github.com/MustansirZia/serverless-link-preview).
