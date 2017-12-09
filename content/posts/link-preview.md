@@ -27,7 +27,7 @@ Gather the <b>tools</b> we need.
 `$ touch package.json up.json app.js`
 
 • Then, add a few local packages.<br />
-`$ npm i express memory-cache @nunkisoftware/link-preview --save`
+`$ npm i express memory-cache cors @nunkisoftware/link-preview --save`
 
 • Add a `scripts` section to your `package.json` so Up knows how to start your express server.
 ```
@@ -54,8 +54,12 @@ Gather the <b>tools</b> we need.
 const express = require('express');
 const linkPreview = require('@nunkisoftware/link-preview');
 const mCache = require('memory-cache');
+const cors = require('cors');
 
 const app = express();
+
+// Apply cors so provide asynchronous access from browsers.
+app.use(cors());
 
 // Validation middleware to simply check the url query param.
 const validate = function (req, res, next) {
