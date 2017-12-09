@@ -42,6 +42,7 @@ Gather the <b>tools</b> we need.
   },
   "dependencies": {
     "@nunkisoftware/link-preview": "^0.2.0",
+    "cors": "^2.8.4",
     "express": "^4.16.2",
     "memory-cache": "^0.2.0"
   }
