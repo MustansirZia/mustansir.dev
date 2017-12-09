@@ -58,7 +58,7 @@ const cors = require('cors');
 
 const app = express();
 
-// Apply cors so provide asynchronous access from browsers.
+// Apply cors to provide asynchronous access from browsers.
 app.use(cors());
 
 // Validation middleware to simply check the url query param.
