@@ -12,7 +12,7 @@ This is possible because of this ECMAScript [proposal](https://github.com/tc39/p
 
 And here's the [fiddle](https://jsfiddle.net/8ja6erbk/7/). 
 
-As you can see if eliminates the need for a `this.doWork = this.doWork.bind(this)` in the `constructor` and we can also avoid creating a new fat arrow function <br />
+As you can see it eliminates the need for a `this.doWork = this.doWork.bind(this)` in the `constructor` and we can also avoid creating a new fat arrow function <br />
 like so `<button onClick={() => this.doWork()}>` inside each render cycle.
 
 <br />
