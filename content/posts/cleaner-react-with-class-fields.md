@@ -24,7 +24,7 @@ We can then call each corresponding function from the function array in our `ren
 
 ![Example 2](/images/cleaner2.png)
 
-And here's the [fiddle](https://jsfiddle.net/8ja6erbk/14/).
+And here's the [fiddle](https://jsfiddle.net/8ja6erbk/17/).
 
 <i>Caution - If you forget to update your `funcArray` when the `array` inside your state changes, bad things might happen.</i>
 
