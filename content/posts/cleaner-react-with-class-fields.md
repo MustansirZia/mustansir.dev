@@ -29,3 +29,6 @@ And here's the [fiddle](https://jsfiddle.net/8ja6erbk/14/).
 <i>Caution - If you forget to update your `funcArray` when the `array` inside your state changes, bad things might happen.</i>
 
 Cheers!
+
+<br />
+Clap for this article on [medium](https://medium.com/@mustansirzia/cleaner-react-with-class-fields-8e33e7d8dd25)?
