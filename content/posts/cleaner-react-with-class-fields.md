@@ -19,16 +19,16 @@ like so `<button onClick={() => this.doWork()}>` inside each render cycle.
 #### What if the method takes an argument and is called with an item from an array? 
 
 
-Well, we can map and transform the array into an array of functions using map just like we transform it into JSX inside `render`.
-We can then call each corresponding function from the function array in our `render` method.
+No worries! Instead of <i>doing work</i>, just make the original return another arrow function and do the actual work inside the returned function. The returned function will have access to the original argument via the power of closure.
 
 ![Example 2](/images/cleaner2.png)
 
-And here's the [fiddle](https://jsfiddle.net/8ja6erbk/17/).
-
-<i>Caution - If you forget to update your `funcArray` when the `array` inside your state changes, bad things might happen.</i>
+And here's the [fiddle](https://jsfiddle.net/8ja6erbk/22/).
 
 Cheers!
+
+<i>"Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity."</i>
+Charles Mingus.
 
 <br />
 Clap for this article on [medium](https://medium.com/@mustansirzia/cleaner-react-with-class-fields-8e33e7d8dd25)?
