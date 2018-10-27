@@ -25,8 +25,8 @@ Full Stack Developer (who also does occasional DevOps).
 <br />
 
 ## What this site is about:
-Well, this site is basically my blog about all things I like to work on or think about on a daily basis. And at the time of this writing, it is software development. 
+Well, this site is basically my blog about all things I like to work on or think about on a daily basis. And at the time of this writing, it is software development and computers. 
 <br />
-(I also plan to write posts about stuff that's not related to technology but that's another story altogether)
+(I also plan to write posts about stuff that's not related to development but that's another story altogether)
 
 Cheers!
