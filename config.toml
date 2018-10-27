@@ -7,7 +7,7 @@ enableRobotsTXT=true
 disqusShortname = ""
 [params]
   name = "Mustansir Zia"
-	description = "Describe your website"
+	description = "This is my blog about things I love to explore and think about."
 	bio = "Making/fixing computer things. I develop stuff."
 	# Enter optionally your twitter account
 	twitter = "mustansirzia"
