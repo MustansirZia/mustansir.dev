@@ -28,8 +28,6 @@ A few more instructions for SPAs. <br/> <span style="font-size:13px">(Please not
 <br />
 After configuring everything as shown in the video, your next deployment should be as simple as running a single CLI command!
 
-<br />
-
 ### Pro tip:
 In the behaviour settings for CloudFront, change the <b>Object Caching</b> option to <b>Customize</b> and set the <b>Minimum TTL</b>, <b>Default TTL</b> and <b>Maximum TTL</b> to <b>31557600</b>. This ensures the content from your S3 bucket stays inside the CloudFront cache for as long as it can before we invalidate it manually on the next update to our bucket. You'd want this as serving from CloudFront is very much cheaper and also way better performance wise.
 
