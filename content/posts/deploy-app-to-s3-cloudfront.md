@@ -26,9 +26,12 @@ A few more instructions for SPAs. <br/> <span style="font-size:13px">(Please not
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Zjj0QFmjTxE" frameborder="0" allowfullscreen></iframe>
 
 <br />
+After configuring everything as shown in the video, your next deployment should be as simple as running a single CLI command!
+
+<br />
 
 ### Pro tip:
-In the behaviour settings for Cloudfront, change the <b>Object Caching</b> option to <b>Customize</b> and set the <b>Minimum TTL</b>, <b>Default TTL</b> and <b>Maximum TTL</b> to <b>31557600</b>. This ensures the content from your S3 bucket stays inside the cloudfront cache for as long as it can before we invalidate it manually on the next update to our bucket. You'd want this as serving from Cloudfront is very much cheaper and also way better performance wise.
+In the behaviour settings for CloudFront, change the <b>Object Caching</b> option to <b>Customize</b> and set the <b>Minimum TTL</b>, <b>Default TTL</b> and <b>Maximum TTL</b> to <b>31557600</b>. This ensures the content from your S3 bucket stays inside the CloudFront cache for as long as it can before we invalidate it manually on the next update to our bucket. You'd want this as serving from CloudFront is very much cheaper and also way better performance wise.
 
 > I forgot to mention this in the video. :)
 
@@ -38,7 +41,7 @@ In the behaviour settings for Cloudfront, change the <b>Object Caching</b> optio
 The publish script that we use looks like this.
 
 ![Publish Script](/images/s3.png)
-This script ensures our deploys to S3 with Cloudfront are always a one-liner like so
+This script ensures our deploys to S3 with CloudFront are always a one-liner like so
 <br /> `yarn publishToS3` or `npm run publishToS3`. <br/> This saves times and is very CI friendly. The <b>aws-cli</b> for running the aws commands can be downloaded from [here](https://aws.amazon.com/cli/).
 
 Also,
@@ -48,6 +51,6 @@ Learn how to get your keys from [here](https://aws.amazon.com/blogs/security/whe
 
 <br /> 
 
-I really hope you've enjoyed the video and it helps you in your next big project! 
+I really hope you've enjoyed the video and it helps you with your next big project! 
 
 Cheers.
