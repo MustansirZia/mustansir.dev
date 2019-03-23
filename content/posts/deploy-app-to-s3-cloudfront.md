@@ -1,10 +1,10 @@
 ---
-title: "Deploy static web applications to S3 and serve them using CloudFront over HTTPS."
+title: "Deploy static web applications to S3 and CloudFront and serve them over HTTPS."
 date: 2019-03-24T01:30:59+05:30
 draft: false
 ---
 
-### <p>A video tutorial on how to deploy web applications to production on [Amazon S3](https://aws.amazon.com/s3) and server them using a low latency CDN, [CloudFront](https://aws.amazon.com/cloudfront). </p>
+### <p>A video tutorial on how to deploy web applications to production on [Amazon S3](https://aws.amazon.com/s3) and serve them using a low latency CDN, [CloudFront](https://aws.amazon.com/cloudfront). </p>
 It also includes serving the same application over HTTPS using a custom domain name via [Route 53](https://aws.amazon.com/route53) with the help of a free SSL certificate generated from [Amazon Certificate Manager](https://aws.amazon.com/certificate-manager/).
 
 Sounds overwhelming? Not to worry! I've got a whole video in order to explain every step bit by bit. 
