@@ -1,5 +1,5 @@
 ---
-title: "Deploy static web applications to S3 and serve them using CloudFront and HTTPS."
+title: "Deploy static web applications to S3 and serve them using CloudFront over HTTPS."
 date: 2019-03-24T01:30:59+05:30
 draft: false
 ---
