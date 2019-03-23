@@ -47,8 +47,13 @@ Also,
 > Since our repositories are always private, instead of saving the aws credentials inside the environment we prefer to save them inside this very script and apply them just before we deploy our apps. (notice the `export AWS_**` variables?) This enables everyone on the team to be able to deploy the apps when needed. 
 Learn how to get your keys from [here](https://aws.amazon.com/blogs/security/wheres-my-secret-access-key/).
 
-<br /> 
+<br />
 
 I really hope you've enjoyed the video and it helps you with your next big project! 
 
 Cheers.
+
+<br />
+
+<iframe src="https://giphy.com/embed/QJsP0cTAJhg7O47ub2" width="460" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://medium.com/@mustansirzia/deploy-static-web-applications-to-s3-and-serve-them-using-cloudfront-and-https-cbea5bd101b2">Clap for this article on Medium? :)</a></p>
