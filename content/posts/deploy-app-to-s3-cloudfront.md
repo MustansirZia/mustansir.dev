@@ -55,5 +55,5 @@ Cheers.
 
 <br />
 
-<iframe src="https://giphy.com/embed/QJsP0cTAJhg7O47ub2" width="460" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://medium.com/@mustansirzia/deploy-static-web-applications-to-s3-and-serve-them-using-cloudfront-and-https-cbea5bd101b2">Clap for this article on Medium? :)</a></p>
+<iframe src="https://giphy.com/embed/QJsP0cTAJhg7O47ub2" width="100%" height="380" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p style="text-align:center"><a href="https://medium.com/@mustansirzia/deploy-static-web-applications-to-s3-and-serve-them-using-cloudfront-and-https-cbea5bd101b2">Clap for this article on Medium? :)</a></p>
