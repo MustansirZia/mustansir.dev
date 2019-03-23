@@ -13,7 +13,7 @@ While I'm not doing all that I think about traveling the world and riding a bike
 
 <br />
 
-## What kind of work I like:
+## What I like to work on:
 I'm thrilled by bleeding edge. I get bored of using a decade old technology to solve a problem that has been solved decades ago. 
 I'm also looking for people who understand the value of time and respect flexibility among their colleagues. Remote work is one such example.
 
