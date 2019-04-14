@@ -5,6 +5,7 @@ theme = "cactus"
 enableRobotsTXT=true
 # enter mustansirzia below to enable disqus
 disqusShortname = ""
+googleAnalytics = "UA-138243193-1"
 [params]
   name = "Mustansir Zia"
 	description = "This is my blog about things I love to explore and think about."
