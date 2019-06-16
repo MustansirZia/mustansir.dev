@@ -24,7 +24,7 @@ googleAnalytics = "UA-138243193-1"
 
   # 404 page
   title404 = "Oops."
-  subtitle404 = "Sadly, you've ventured somwhere far. :("
+  subtitle404 = "Sadly, you've ventured somewhere far. :("
 
   # Add additional social link entries underneath
 [social]
