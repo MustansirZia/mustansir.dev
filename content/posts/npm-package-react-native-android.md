@@ -6,7 +6,10 @@ draft: false
 
 ### <p> Package structure (boilerplate) for a react native library containing native Android code. </p>
 
-Say we're working on an npm package for react native called "react-native-awesomeness" which contains native Android implementation written in Java. Well, this is how the bare bones structure or boilerplate of that package would look like.
+If you've ever wondered what a react-native library with native Android code looks like, you've come to the right place. This post highlights the things you need to make one and how the folders generally look like.
+<br />
+
+Say we're working on an npm package for react native called <b>"react-native-awesomeness"</b> which contains native Android implementation written in Java. Well, this is how the bare bones structure or boilerplate of that package would look like.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/0RjYWGlEVpA" frameborder="0" allowfullscreen></iframe>
 
