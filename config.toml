@@ -9,7 +9,7 @@ googleAnalytics = "UA-138243193-1"
 [params]
   name = "Mustansir Zia"
 	description = "This is my blog about things I love to explore and think about."
-	bio = "Making/fixing computer things. I develop stuff."
+	bio = "On a computer somewhere. Making/fixing computer things."
 	# Enter optionally your twitter account
 	twitter = "mustansirzia"
   enableRSS = true
