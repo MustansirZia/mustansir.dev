@@ -18,7 +18,7 @@ Let's conside an example. Suppose there's a button which when tapped calls an AP
 
 The solution? To filter out the interactions based on time. Or in other words, only process one user interaction for a particular period of time and ignore the rest. That's what throttling means for us in mobile or web development.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/11YdnfyG6qvuWk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/blinds-disinterested-11YdnfyG6qvuWk"></a></p>
+![Throtte function](/images/throttle_3.gif)
 
 Let's now see an easy way to do this in Dart & Flutter.
 <br />
