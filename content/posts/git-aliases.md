@@ -4,7 +4,7 @@ date: 2020-05-09T01:12:00+05:30
 draft: false
 ---
 
-For quite some time now I've been using certain aliases in my terminal that make my git faster. 
+For quite some time now I've been using certain aliases in my terminal that make my git workflow go faster. 
 Well, git commands aren't really that long but when you only need to type <b>two letters</b>, ↵ and that's enough to 🚀.
 
 <i>Your lazy self cannot thank you enough.</i>
