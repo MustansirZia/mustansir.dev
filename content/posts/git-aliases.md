@@ -15,7 +15,7 @@ First, a few items in the bash file.
 ![Your Bash File](/images/git_aliases.png)
 
 Then, it's showtime in the repo. 
-![Your Terminla](/images/git_aliases_2.png)
+![Your Terminal](/images/git_aliases_2.png)
 
 Couldn't have pushed out a feature sooner. :)
 
