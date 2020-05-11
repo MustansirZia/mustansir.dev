@@ -18,3 +18,10 @@ Then, it's showtime in the repo.
 ![Your Terminla](/images/git_aliases_2.png)
 
 Couldn't have pushed out a feature sooner. :)
+
+Also, do note these aliases are somewhat generic. Means even though the remote defaults to the origin different remotes can still be specified. For example `$ gp heroku master` where the syntax is `$ gp <remote> <branch>`. This works for a different branch in the same origin as well. Say you're on a local master branch, to push up commits to a remote `develop` branch in the origin you could say `$ gp origin develop`. 
+
+
+
+
+
