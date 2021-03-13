@@ -1,6 +1,6 @@
-# mustansirzia.com.
+# mustansir.dev.
 
-This repository is home to my [blog](https://mustansirzia.com).
+This repository is home to my [blog](https://mustansir.dev).
 
 It is a static website built using a CMS called [Hugo](https://gohugo.io) which is written in golang.
 
