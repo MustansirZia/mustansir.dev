@@ -31,3 +31,9 @@ googleAnalytics = "UA-138243193-1"
     twitter  = "https://www.twitter.com/mustansirzia"
     facebook = "https://www.facebook.com/MustansirZia"
     github   = "https://www.github.com/MustansirZia"
+    linkedin = "https://www.linkedin.com/in/MustansirZia"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    
