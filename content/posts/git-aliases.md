@@ -9,9 +9,8 @@ Well, git commands aren't really that long but when you only need to type <b>two
 
 <i>Your lazy self cannot thank you enough.</i>
 
-<br />
-
-First, a few items in the bash file. 
+First, a few items in the bash file. <br />
+(If you’re using a different shell than bash then the filename and directory might differ)
 ![Your Bash File](/images/git_aliases.png)
 
 Then, it's showtime in the repo. 
