@@ -20,6 +20,11 @@ Couldn't have pushed out a feature sooner. :)
 
 Also, do note these aliases are somewhat generic. Means even though the remote defaults to the origin different remotes can still be specified. For example `$ gp heroku master` where the syntax is `$ gp <remote> <branch>`. This works for a different branch in the same origin as well. Say you're on a local master branch, to push up commits to a remote `develop` branch in the origin you could say `$ gp origin master:develop`. 
 
+<br/> 
+
+### Clap for this article on Medium?
+https://medium.com/@mustansirzia/git-aliases-that-save-time-bc6386bd7d8e
+
 
 
 

@@ -37,6 +37,9 @@ https://www.youtube.com/channel/UCPf1JC3zhos7kOWBkSJrNVw
 #### All the code for this project lives on this open source repository.
 https://github.com/MustansirZia/institutions-lookup
 
+#### Clap for this article on Medium?
+https://medium.com/@mustansirzia/ship-a-next-js-app-with-a-ci-cd-pipeline-56f5050d2001
+
 <br />
 
 ## References:
