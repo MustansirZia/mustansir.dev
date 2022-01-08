@@ -12,6 +12,7 @@ draft: false
 
 #### Bonus Points.  
 • Completely written in [TypeScript](https://www.typescriptlang.org).
+
 • Integration tests written using a headless browser and [cypress](https://www.cypress.io).
 
 • The app used [React Query](https://react-query.tanstack.com) to fetch data from the API.
