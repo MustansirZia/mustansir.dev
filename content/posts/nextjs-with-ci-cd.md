@@ -11,6 +11,7 @@ draft: false
 • Along the way, we also built a CI/CD pipeline for this right inside GitHub using [GitHub Actions](https://github.com/features/actions). This allowed us to automate running tests and also automate deployments to our web server upon each commit. <br /> *What's a CI/CD Pipeline? Read from [here](https://semaphoreci.com/blog/cicd-pipeline).*
 
 #### Bonus Points.  
+• Completely written in [TypeScript](https://www.typescriptlang.org).
 • Integration tests written using a headless browser and [cypress](https://www.cypress.io).
 
 • The app used [React Query](https://react-query.tanstack.com) to fetch data from the API.
@@ -38,10 +39,10 @@ https://github.com/MustansirZia/institutions-lookup
 <br />
 
 ## References:
+* Institutions API GitHub Repository (https://github.com/MustansirZia/institutions-api)
 * Next.js (https://nextjs.org)
 * nginx (https://www.nginx.com)
 * GitHub Actions (https://github.com/features/actions)
 * Cypress (https://www.cypress.io)
 * React Query (https://react-query.tanstack.com)
-* Institutions API GitHub Repository (https://github.com/MustansirZia/institutions-api)
-* Institutions Lookup GitHub Repository (https://github.com/MustansirZia/institutions-lookup)
+* TypeScript (https://www.typescriptlang.org)
