@@ -8,7 +8,7 @@ draft: false
 
 • We built a subdomain service (We called it the Pokemon Service!) that can serve different web pages based on the subdomain from which it was accessed from. 
 
-• For example, pikachu.domain.com would serve a page related to Pikachu, similarly charmander.domain.com, etc. The app serves requests coming in to *.domain.com dynamically based on the slug before the domain.com.
+• For example, **pikachu.domain.com** would serve a page related to Pikachu, similarly **charmander.domain.com**, etc. The app served requests coming in to ***.domain.com** dynamically based on the slug before the domain.com.
 
 • Along the way, we also talked about clean code and what abstractions or patterns make sense here.
 
