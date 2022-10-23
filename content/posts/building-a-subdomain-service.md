@@ -31,7 +31,7 @@ https://www.youtube.com/channel/UCPf1JC3zhos7kOWBkSJrNVw
 https://github.com/MustansirZia/pokemon-service
 
 #### Clap for this article on Medium?
-https://medium.com/@mustansirzia/ship-a-next-js-app-with-a-ci-cd-pipeline-56f5050d2001
+https://medium.com/@mustansirzia/build-a-subdomain-service-using-nest-js-and-typescript-4bdc6a4bf100
 
 <br />
 
