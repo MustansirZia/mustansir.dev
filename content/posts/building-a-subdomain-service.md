@@ -10,7 +10,7 @@ draft: false
 
 • Basically, serve an app site1.domain.com, site2.domain.com, *.domain.com dynamically based on the slug before domain.com.
 
-•  For this tutorial, we used Nest.js (https://nestjs.com) and TypeScript (https://www.typescriptlang.org).
+• For this tutorial, we used Nest.js (https://nestjs.com) and TypeScript (https://www.typescriptlang.org).
 
 • It was a Node.js application and we deployed it to the cloud using [Digital Ocean](https://digitalocean.com).
 
