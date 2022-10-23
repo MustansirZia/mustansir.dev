@@ -8,11 +8,11 @@ draft: false
 
 • We built a subdomain service (We called it the Pokemon Service!) that can serve different web apps based on the subdomain from which it was accessed. Along the way, we also talked about clean code and what abstractions or patterns make sense here.
 
-Basically, serve an app site1.domain.com, site2.domain.com, *.domain.com dynamically based on the slug before domain.com.
+• Basically, serve an app site1.domain.com, site2.domain.com, *.domain.com dynamically based on the slug before domain.com.
 
-For this tutorial, we used Nest.js (https://nestjs.com) and TypeScript (https://www.typescriptlang.org).
+•  For this tutorial, we used Nest.js (https://nestjs.com) and TypeScript (https://www.typescriptlang.org).
 
-It was a Node.js application and we deployed it to the cloud using [Digital Ocean](https://digitalocean.com).
+• It was a Node.js application and we deployed it to the cloud using [Digital Ocean](https://digitalocean.com).
 
 <br />
 
