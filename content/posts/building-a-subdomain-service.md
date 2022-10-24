@@ -24,7 +24,7 @@ draft: false
 <br />
 <br />
 
-#### Please subscribe to my YouTube channel for my plan to do more of such recordings.
+#### Please subscribe to my YouTube channel as I plan to do more of such recordings.
 
 https://tinyurl.com/465stypj
 
