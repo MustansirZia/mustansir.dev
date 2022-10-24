@@ -25,7 +25,6 @@ draft: false
 <br />
 
 #### Please subscribe to my YouTube channel as I plan to do more of such recordings.
-
 https://tinyurl.com/465stypj
 
 #### All the code for this project lives on this open source repository.
