@@ -32,7 +32,7 @@ draft: false
 <br />
 
 #### Please subscribe to my YouTube channel for my plan to do more of such recordings.
-https://www.youtube.com/channel/UCPf1JC3zhos7kOWBkSJrNVw
+https://tinyurl.com/465stypj
 
 #### All the code for this project lives on this open source repository.
 https://github.com/MustansirZia/institutions-lookup
